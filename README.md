@@ -2,7 +2,7 @@
    <img src="http://img.shields.io/static/v1?label=STATUS&message=EM_ANDAMENTO&color=RED&style=for-the-badge" #vitrinedev/>
 </p>
 
-<h1>Alura Alurinha</h1>
+<h1>Alurinha - Alura</h1>
 
 # :pushpin: Formações
 - `Formação ` Front End
