@@ -5,11 +5,10 @@
 <h1>Alurinha - Alura</h1>
 
 # :pushpin: Formações/Cursos/Imersões
-- ` Observações ` Front End (Layouts Responsivos trabalhando com layouts mobile)
+- ` Observação ` Front End (Layouts Responsivos trabalhando com layouts mobile)
 
 # :hammer: Sobre do projeto
-- ` Funcionalidade ` Apredenda a trabalhar com responsividade mobile
-- ` Observações ` Irei melhorar mais o projeto em breve
+- ` Observação ` Apredenda a trabalhar com responsividade mobile. Cada "bloco" direcionando curso Alura.
 
 # :bookmark_tabs: Tecnologias
 ![HTML5](https://img.shields.io/badge/HTML-e06b12?style=for-the-badge&logo=html5&logoColor=white)
