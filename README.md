@@ -1,4 +1,4 @@
-<p align="center"> <img src="http://img.shields.io/static/v1?label=STATUS_GERAL&message=FINALIZADO&color=RED&style=for-the-badge" #vitrinedev/> </p>
+<p align="center"> <img src="http://img.shields.io/static/v1?label=STATUS_GERAL&message=EM_ANDAMENTO&color=RED&style=for-the-badge" #vitrinedev/> </p>
 
 # Alurinha
 App apresenta bloco de "cursos" da Alura
@@ -30,4 +30,5 @@ No VSCode clicar na parte inferior e clicar "Go Live" (Live Server)
 
 
 ## 🔎 Observações
-- [X] Finalizado
+- [ ] Colocar Gif rápido
+- [ ] Finalizado
