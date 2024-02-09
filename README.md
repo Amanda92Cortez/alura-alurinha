@@ -7,7 +7,7 @@
 # :pushpin: Formações/Cursos/Imersões
 - ` Observações ` Front End (Layouts Responsivos trabalhando com layouts mobile)
 
-# :hammer: Funcionalidades do projeto
+# :hammer: Sobre do projeto
 - `Funcionalidade ` Apredenda a trabalhar com responsividade mobile
 - `Observações ` Irei melhorar mais o projeto em breve
 
