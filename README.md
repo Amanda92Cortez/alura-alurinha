@@ -1,6 +1,6 @@
 <p align="center"> <img src="http://img.shields.io/static/v1?label=STATUS_GERAL&message=FINALIZADO&color=RED&style=for-the-badge" #vitrinedev/> </p>
 
-# ALURINHA
+# Alurinha
 App apresenta bloco de "cursos" da Alura
 
 ## 🔨 Funcionalidades do projeto
