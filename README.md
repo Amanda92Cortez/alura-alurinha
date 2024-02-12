@@ -19,9 +19,6 @@ Tela de detalhes
 ## 📚Telas/Vídeos
 ![image](https://github.com/Amanda92Cortez/alura-alurinha/assets/19363871/1e86e615-1456-4f8d-b67b-de7497ded36c)
 
-## 📁 Acesso ao projeto
-Você pode [acessar o código fonte do projeto inicial](https://github.com/Amanda92Cortez/alura-alurinha) ou [baixá-lo](https://github.com/Amanda92Cortez/alura-alurinha/archive/refs/heads/main.zip).
-
 ## 🛠️ Abrir e rodar o projeto
 - ` Baixar projeto ` Utiliza seguinte comando: git clone https://github.com/Amanda92Cortez/alura-alurinha.git
 - ` Executar projeto ` No VSCode clicar na parte inferior e clicar "Go Live" (Live Server)
