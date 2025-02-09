@@ -1,29 +1,58 @@
-<p align="center"> <img src="http://img.shields.io/static/v1?label=STATUS_GERAL&message=EM_ANDAMENTO&color=RED&style=for-the-badge" #vitrinedev/> </p>
+<div align="center">
+  <h1 align="center">
+    Alurinha
+    <br />
+    <br />
+    <img src="img/image_06.gif" alt="Gif">
+    <br />
+  </h1>
 
-# Alurinha
-App apresenta bloco de "cursos" da Alura
+  <h2> 
+  
+  :white_check_mark: Projeto finalizado
+  </h2>
+</div>
 
-## 🔨 Funcionalidades do projeto
+---
+
+# :file_folder: Índice 
+
+- [Descrição do Projeto](#id01)
+- [Ferramentas](#id02)
+- [Desafio](#id04)
+- [Instalação](#id03)
+
+---
+
+# :pushpin: Descrição do Projeto <a name="id01"></a>
 O App listada dos "cursos" com direcionamento de site da Alura, também trabalhando com responsividade mobile.
 
-## :bookmark_tabs: Técnicas e tecnologias utilizadas
-As técnicas e tecnologias utilizadas pra isso são:
+---
 
-![HTML5](https://img.shields.io/badge/HTML-e06b12?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1283e0?&style=for-the-badge&logo=css3&logoColor=white)
+# :computer: Ferramentas<a name="id02"></a>
 
-## 🎯 Desafio
-Tela de detalhes
-![](img/amostra.gif) GIF ?
+<div style="display: flex; gap: 10px;">
+  <img src="https://img.shields.io/badge/HTML-e06b12?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS-1283e0?&style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
+</div>
 
-## 📚Telas/Vídeos
+---
+
+# 🎯 Desafio <a name="id04"></a>
 ![image](https://github.com/Amanda92Cortez/alura-alurinha/assets/19363871/1e86e615-1456-4f8d-b67b-de7497ded36c)
+---
+# 🗂 Instalações <a name="id03"></a>
+#### Baixar Projeto e instalações
+```bash
+    # Clonar o repositório
+    $ git clone https://github.com/Amanda92Cortez/alura-alurinha.git
 
-## 🛠️ Abrir e rodar o projeto
-- ` Baixar projeto ` Utiliza seguinte comando: git clone https://github.com/Amanda92Cortez/alura-alurinha.git
-- ` Executar projeto ` No VSCode clicar na parte inferior e clicar "Go Live" (Live Server)
+    # Entrar no diretório
+    $ cd nomePasta
 
+    # Executar projeto
+    # No VSCode clicar na parte inferior e clicar "Go Live" (Live Server)
+```
+---
 
-## 🔎 Observações
-- [ ] Colocar Gif rápido
-- [ ] Finalizado
+Feito pela Amanda Cortez 👋🏽 [Acesse meu linkedin!](www.linkedin.com/in/amandacortez92)
